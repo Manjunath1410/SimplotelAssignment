@@ -1,5 +1,5 @@
 # SimplotelAssignment
-This project showcases a simple web page created using HTML and CSS for the Simplotel assignment. Hosted on Vercel for easy access
+This project showcases a simple web page created using HTML and CSS for the Simplotel assignment. Hosted on Vercel for easy access **Click the Link**
 [Simplotel Assignment](https://manjunath1410.github.io/SimplotelAssignment/)
 
 #Technologies Used:
